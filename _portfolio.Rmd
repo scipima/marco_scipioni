@@ -1,5 +1,5 @@
 ---
-title: "portfolio"
+title: "Portfolio"
 description: |
   Some of my professional and personal work. 
 output: 
@@ -42,20 +42,19 @@ create_proj_card(
 ```
 <br><br>
 
-# Shiny apps and package development
+# Shiny apps
 ```{r eval=FALSE, include=FALSE}
 create_proj_card(
   img_src = "images/logo.png",
   url = "https://ijeamaka-a.shinyapps.io/rtistry_gallery/",
   title = "rtistry art gallery",
   text = "A celebration and showcase of art in all of its forms created by the #rstats community. An entry for the RStudio 2021 Shiny Competition, 2021",
-   text2 = ""
-)
+   text2 = "")
+
 create_proj_card(
   img_src = "images/20210322212954.png",
   url = "https://github.com/Ijeamakaanyene/contouR",
   title = "{contouR}",
   text = "An R package for creating patterns using geom_contour(), 2021",
-  text2 = ""
-)
+  text2 = "")
 ```
