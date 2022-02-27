@@ -1,18 +1,18 @@
 ---
-title: "iyo-distill"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Marco Scipioni"
+image: "fb_old.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
 site: distill::distill_website
+output:
+  postcards::jolla
 ---
+ 
+I am a project officer at the European Commission.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+Currently, I mainly work on migration, public opinion, and elections. 
