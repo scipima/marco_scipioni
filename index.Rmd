@@ -3,7 +3,7 @@ title: ""
 image: "fb_old.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/scipima"
+    url: "https://www.linkedin.com/feed/"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en"
   - label: GitHub
@@ -22,7 +22,7 @@ Currently, I mainly work on migration, public opinion, and elections.
 
 ## Projects
 
-[Atlas of Demography](https://knowledge4policy.ec.europa.eu/atlas-demography_en#more_information_and_links). A new knowledge management tool to better understand demographic change. 
+[Atlas of Demography](https://migration-demography-tools.jrc.ec.europa.eu/atlas-demography). A new knowledge management tool to better understand demographic change. 
 
 [Dynamic Data Hub](https://migration-demography-tools.jrc.ec.europa.eu/data-hub/). Explore and analyse datasets relevant to migration and demography.
 
